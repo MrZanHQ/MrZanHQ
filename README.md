@@ -1,6 +1,6 @@
 ### Hi,there! I'm Mʀ.Zᴀɴ 👋
 
-![Banner](./banner.png)
+![Banner](../banner.png)
 
 I'm a **tech geek** 🛠 and record life, also I'm a content creator, and as a designer 🖌. I love for boost many open source software to development, and friendly to talk there some about technical issues. As a freedom designer, also I can do UI and UX guidance for them. 
 I am mainly active on social networks, but sometimes I watch some projects and raise issues. You can follow my social network account to get information.
