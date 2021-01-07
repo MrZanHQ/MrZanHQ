@@ -1,6 +1,6 @@
 ### Hi,there! I'm Mr.Zan  👋
 
-![Banner](./Banner.png)
+![Banner](./Card.png)
 Mr.Zan - Focus Geek 👨🏻‍💻 
 
 Geek Coder | Designer | Creator | Fediverse fans
