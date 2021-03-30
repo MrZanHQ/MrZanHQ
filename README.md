@@ -1,9 +1,7 @@
 ### Hi,there! I'm Mr.Zan  👋
 
 ![Banner](./Card.png)
-Mr.Zan - Focus Geek 👨🏻‍💻 
 
-Geek Coder | Designer | Creator | Fediverse fans
-
-技术极客 | 平面设计师 | 内容创作者 | Fediverse 发烧友
+Geek, Creator and Designer | Mobile & Digital Enthusiast | Fediverse fans
+技术极客、创作者和设计师👨🏻‍💻 手机、数码爱好者 | Mr.Zan Club #Fediverse 发烧友
 
